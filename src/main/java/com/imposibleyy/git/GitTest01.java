@@ -7,5 +7,6 @@ public class GitTest01 {
         System.out.println("这是第3个idea git项目！！！");
         System.out.println("这是第4个idea git项目！！！");
         System.out.println("master code");
+        System.out.println("hot fix code");
     }
 }
